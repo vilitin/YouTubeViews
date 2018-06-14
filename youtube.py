@@ -43,7 +43,7 @@ class Views(Browser, Tor):
   b = '\033[34m' # blue
 
   call('clear')
-  print ''
+  print ' vili '
   print '  +------ Youtube Views ------+'
   print '  [-] Url: {}{}{}'.format(g, url, n)
   print '  [-] Proxy IP: {}{}{}'.format(b, self.ip, n)
